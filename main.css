@@ -1,8 +1,14 @@
 body {
-    background-color: lightblue;
+    background-color: 80aaff;
 }
 
 h1 {
-    color: navy;
+    color: azure;
     margin-left: 20px;
 } 
+
+p  {
+    color: azure;
+    margin-left: 30px;
+}
+
