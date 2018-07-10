@@ -4,8 +4,26 @@ body {
 
 h1 {
     color: azure;
-    margin-left: 20px;
+    margin-left: 24px;
 } 
+h2 {
+    color: azure;
+    margin-left: 20px;
+
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid azure;
+    text-align: left;
+    padding: 8px;
+}
+
 
 p  {
     color: azure;
