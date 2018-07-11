@@ -5,11 +5,12 @@ body {
 h1 {
     color: azure;
     margin-left: 20px;
+    font-size: 16
 } 
 h2 {
     color: azure;
-    margin-left: 18px;
-
+    margin-left: 20px;
+    font-size: 14
 }
 
 table {
@@ -27,6 +28,7 @@ td, th {
 
 p  {
     color: azure;
-    margin-left: 30px;
+    margin-left: 20px;
+    font-size: 12
 }
 
